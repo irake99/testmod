@@ -1,5 +1,5 @@
 package testmod
 
-func Hello(name string) string {
-	return "Hello " + name + " v2.1.1"
+func Hello(firstName, lastName string) string {
+	return "Hello " + firstName + " " + lastName + " v3.0.0"
 }
