@@ -1,5 +1,5 @@
 package testmod
 
 func Hello() string {
-	return "Hello v1.1.2"
+	return "Hello v1.2.0"
 }
